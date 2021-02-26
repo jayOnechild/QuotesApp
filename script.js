@@ -26,8 +26,6 @@ let ran = Math.floor(Math.random()*qts.length);
 
     dQoutes.innerHTML = qts[ran].qoute;
 
-    // console.log();
-
     personNum.innerHTML = 'Qoute by '+ qts[ran].name;
 
 
