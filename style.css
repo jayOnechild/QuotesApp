@@ -25,6 +25,7 @@ h1{
    padding: 10px;
    outline: none;
    background-color: bisque;
+   cursor: pointer;
    }
    
    #btn:hover{
@@ -34,5 +35,6 @@ h1{
    div{
      color: white;
        background-color: gray;
+       border-radius: 2rem;
        
    }
