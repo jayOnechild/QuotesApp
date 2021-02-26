@@ -1,0 +1,38 @@
+body{
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color:whitesmoke;
+}
+h1{
+    padding: 2rem;
+}
+
+
+#qoutes{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#btn{
+   margin: 3rem;   
+   border: 1px solid rgb(78, 78, 82);
+   border-radius: 2rem;
+   padding: 10px;
+   outline: none;
+   background-color: bisque;
+   }
+   
+   #btn:hover{
+       color: gray;
+   }
+
+   div{
+       color: white;
+       background-color: gray;
+       
+   }
